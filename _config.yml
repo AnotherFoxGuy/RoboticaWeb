@@ -5,8 +5,8 @@ title: RoboticaWeb
 baseurl: "/RoboticaWeb"
 
 defaults:
-  - scope:
-      path: ""
+  #- scope:
+  #    path: *
     values:
       theme: jekyll-theme-cayman
       #layout: default
