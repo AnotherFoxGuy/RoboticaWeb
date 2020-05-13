@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: lorepirri/cayman-blog
 url: 'https://janshoekstra.github.io'
 title: RoboticaWeb
 baseurl: "/RoboticaWeb"
