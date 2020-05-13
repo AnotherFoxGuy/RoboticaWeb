@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 url: 'https://janshoekstra.github.io'
 title: RoboticaWeb
-baseurl: 'RoboticaWeb'
+baseurl: "/RoboticaWeb"
