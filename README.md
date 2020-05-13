@@ -5,7 +5,7 @@
   {% for post in site.posts %}
   <article>
     <h4>
-      <a href="{{ post.url }}">
+      <a href="{{ post.url | prepend: site.baseurl }}">
         {{ post.title }}
       </a>
     </h4>
