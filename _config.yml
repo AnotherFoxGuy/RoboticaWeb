@@ -5,6 +5,9 @@ url: 'https://janshoekstra.github.io'
 title: RoboticaWeb
 baseurl: "/RoboticaWeb"
 
+plugins:
+  -jekyll-include-cache
+
 #defaults:
   #- scope:
   #    path: *
