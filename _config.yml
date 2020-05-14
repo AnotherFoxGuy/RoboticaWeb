@@ -1,12 +1,12 @@
-theme: jekyll-theme-cayman
-#remote_theme: lorepirri/cayman-blog
+#theme: jekyll-theme-cayman
+remote_theme: xukimseven/HardCandy-Jekyll
 url: 'https://janshoekstra.github.io'
 title: RoboticaWeb
 baseurl: "/RoboticaWeb"
 
-defaults:
+#defaults:
   #- scope:
   #    path: *
-    values:
-      theme: jekyll-theme-cayman
+    #values:
+      #theme: jekyll-theme-cayman
       #layout: default
